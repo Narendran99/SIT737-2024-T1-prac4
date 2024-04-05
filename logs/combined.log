@@ -1,0 +1,2 @@
+{"level":"info","message":"GET /add","service":"calculator-microservice"}
+{"level":"info","message":"GET /add?num1=10&num2=5","service":"calculator-microservice"}
